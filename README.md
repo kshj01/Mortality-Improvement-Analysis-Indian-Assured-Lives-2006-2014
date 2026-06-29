@@ -52,7 +52,6 @@ side by side.
 **Note:** Age convention differs between tables (nearest vs last birthday);
 treated as comparable for round entry ages with caveat documented.
 
----
 
 ### Sheet 2 — Calculations
 Central assumptions hub and EPV workings for all five policyholders 
@@ -69,7 +68,6 @@ under both mortality tables.
   single change to any assumption propagates automatically across the 
   entire workbook
 
----
 
 ### Sheet 3 — Pricing Term Assurance
 Gross premium derivation for all five policyholders under both tables.
@@ -86,7 +84,6 @@ Gross premium derivation for all five policyholders under both tables.
   A¹x:10|(immediate) computed recursively using v^0.5 mid-year 
   discount within each policy year
 
----
 
 ### Sheet 4 — Premium Comparison
 Side-by-side premium comparison and source-of-change decomposition.
@@ -109,7 +106,6 @@ Side-by-side premium comparison and source-of-change decomposition.
 death benefit; renewal loading and denominator effects together account 
 for under 1.1%.
 
----
 
 ### Sheet 5 — Stress Test on IALM 2012-14
 Dynamic stress testing module with interactive controls.
